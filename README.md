@@ -1,12 +1,12 @@
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Charis+SIL&size=30&duration=3000&color=F70000&center=true&vCenter=true&lines=Hello%2C+There!;This+is+Erik.Xie...;Nice+to+meet+you!">
+      src="https://readme-typing-svg.herokuapp.com?font=Charis+SIL&size=30&duration=3000&color=F70000&center=true&vCenter=true&lines=Hello%2C+There!;This+is+Erik;Nice+to+meet+you!">
   </a>
   </h1>
 
 
-# 👋Hi,there is Erik.Xie
+# 👋Hi,there is Erik
 
 
 - 🍎This is my [blog](https://waterare.github.io), most of which is my study record, later thought, blog can also record some personal life what?
