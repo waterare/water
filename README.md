@@ -1,12 +1,12 @@
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Charis+SIL&size=30&duration=3000&color=F70000&center=true&vCenter=true&lines=Hello%2C+There!;This+is+Erik.Xie...;Nice+to+meet+you!">
+      src="https://readme-typing-svg.herokuapp.com?font=Charis+SIL&size=30&duration=3000&color=F70000&center=true&vCenter=true&lines=Hello%2C+There!;This+is+Erik;Nice+to+meet+you!">
   </a>
   </h1>
 
 
-# 👋Hi,there is Erik.Xie
+# 👋Hi,there is Erik
 
 
 - 🍎This is my [blog](https://waterare.github.io), most of which is my study record, later thought, blog can also record some personal life what?
@@ -22,10 +22,17 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waterare&theme=gruvbox&layout=compact)
 
-# 🍑Languages and Tools
+# 🍑Languages or Frameworks
+
+![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,java,arduino,css,html,js,md,mysql,spring,vue,electron,go,matlab,nodejs,qt&theme=light&perline=9)
+
+# 🍎Tools and Environments
+
+![My Skills](https://skillicons.dev/icons?i=docker,git,gradle,idea,linux,vscode,github,ae,au,pr,ae,ps,docker&theme=light&perline=9)
 
 
-<p align="left">
+
+<!-- <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
@@ -97,4 +104,4 @@
       src="https://img.shields.io/badge/proteus-1C79B3?style=for-the-badge&logo=proteus&logoColor=white"
       alt="proteus"
     />
-  </a> 
+  </a>  -->
