@@ -9,7 +9,7 @@
 # 👋Hi,there is Erik
 
 
-- 🍎This is my [blog](eriknote.netlify.app), most of which is my study record, later thought, blog can also record some personal life what?
+- 🍎This is my [blog](https://eriknote.netlify.app/), most of which is my study record, later thought, blog can also record some personal life what?
 - 🏚️My [email](chaopingxie@foxmail.com), please contact me if you have any questions
 - 🌸I mainly do embedded programming
 - 🌵Continue to create, continue to output, be a lifelong learner
